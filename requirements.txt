@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+click
+requests
+ta
