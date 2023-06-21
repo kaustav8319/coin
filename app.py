@@ -7,7 +7,7 @@ import tempfile
 import base64
 import ta
 
-st.set_page_config(page_icon="📈", page_title="Crypto Dashboard")
+st.set_page_config(page_title="Crypto Dashboard")
 
 st.sidebar.image(
     "https://freepngimg.com/save/137073-symbol-bitcoin-png-image-high-quality/512x512",
